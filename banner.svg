@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Dana Levin, Data and Business Analysis">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#C8F1E4"/>
+      <stop offset="0.5" stop-color="#DCD6F7"/>
+      <stop offset="1" stop-color="#FFE0CF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="28" fill="url(#bg)"/>
+  <circle cx="1070" cy="70" r="125" fill="#FFFFFF" fill-opacity="0.35"/>
+  <circle cx="1140" cy="250" r="85" fill="#FFFFFF" fill-opacity="0.28"/>
+  <circle cx="80" cy="270" r="100" fill="#FFFFFF" fill-opacity="0.25"/>
+  <text x="80" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="84" font-weight="800" fill="#2F3A56">Dana Levin</text>
+  <text x="84" y="195" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="500" fill="#3E4A6B">Data &amp; Business Analysis · Product · Operations</text>
+  <rect x="82" y="224" width="600" height="38" rx="19" fill="#FFFFFF" fill-opacity="0.7"/>
+  <text x="382" y="249" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#4B5B8C" letter-spacing="0.5">Industrial Engineering &amp; Management · Ben-Gurion University</text>
+</svg>
